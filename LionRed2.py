@@ -86,8 +86,7 @@ def socksCrawler():
             pass
     f.close()
 
-useragents=["windows|Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) AppleWebKit/602.6 (KHTML, like Gecko) Chrome/54.0.1165.132 Safari/533
-windows|Mozilla/5.0 (Windows; U; Windows NT 10.3; WOW64) AppleWebKit/534.46 (KHTML, like Gecko) Chrome/54.0.2783.262 Safari/602.3 Edge/10.19098
+useragents=["windows|Mozilla/5.0 (Windows; U; Windows NT 10.3; WOW64) AppleWebKit/534.46 (KHTML, like Gecko) Chrome/54.0.2783.262 Safari/602.3 Edge/10.19098
 windows|Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/603.31 (KHTML, like Gecko) Chrome/48.0.1535.343 Safari/533
 windows|Mozilla/5.0 (Windows; U; Windows NT 6.0;) AppleWebKit/601.49 (KHTML, like Gecko) Chrome/52.0.2594.310 Safari/603.7 Edge/13.20442
 windows|Mozilla/5.0 (Windows NT 10.4; WOW64; en-US) Gecko/20130401 Firefox/63.3
